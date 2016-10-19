@@ -1,3 +1,3 @@
-# Website
-Mehta Trading Company website 
-LINK: mehtatradingcompany.in
+# Website (mehtatradingcompany.in)
+Mehta Trading Company (Heavy vehicles spare-part dealers) website 
+
