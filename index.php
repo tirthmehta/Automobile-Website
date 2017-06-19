@@ -38,7 +38,7 @@
         <li ><a href="#price-list">Price Details</a></li>
         
         
-        <li ><a href="#faq">Faq</a></li>
+        <li ><a href="#faq">FAQ</a></li>
         <li ><a href="#about">About Us</a></li>
         <li ><a href="#contact">Contact Us</a></li>
         
@@ -59,8 +59,8 @@
 
     <!--button-group starts-->
 <div class="btn-group btn-lg" role="group" aria-label="">
-  <a href="proj1-page2.php"><button type="button" class="btn btn-info" style="padding-left:30px; padding-right:30px ;background-color:#66b3ff">Place Order</button></a>
-  <a href="proj1-page3.php"><button type="button" class="btn btn-success" style="padding-left:20px; padding-right:20px; background-color:#70db70">Exquisite Products</button></a>
+  <a href="placeOrder.php"><button type="button" class="btn btn-info" style="padding-left:30px; padding-right:30px ;background-color:#66b3ff">Place Order</button></a>
+  <a href="products.php"><button type="button" class="btn btn-success" style="padding-left:20px; padding-right:20px; background-color:#70db70">Exquisite Products</button></a>
 </div>
 
 <!--button-group ends-->
@@ -223,7 +223,7 @@
               </div><!-- End panel title -->
               <div id="collapse-2" class="panel-collapse collapse in">
                 <div class="panel-body">
-                  You can go the <a href="proj1-page2.php" style="color:blue; text-decoration:none">Place Order</a> section in the website placed right at the top. Then simply fill out the form and in the message section simply mention the exact code and quantity of products you need. Once you press submit, we will receive your order. We will give you a confirmation call for the same. Click <a href="proj1-page2.php" style="color:blue; text-decoration:none">here</a> to go to our Place Order page.
+                  You can go the <a href="placeOrder.php" style="color:blue; text-decoration:none">Place Order</a> section in the website placed right at the top. Then simply fill out the form and in the message section simply mention the exact code and quantity of products you need. Once you press submit, we will receive your order. We will give you a confirmation call for the same. Click <a href="placeOrder.php" style="color:blue; text-decoration:none">here</a> to go to our Place Order page.
                 </div>
               </div><!-- End Panel collapse -->
             </div>
@@ -451,7 +451,7 @@
   
 </div>
 <div class="col-md-4 text-center">
-  <h5 style="color:white">Copyright &copy; 2016 Mehta Trading Company | All rights reserved</h5>
+  <h5 style="color:white">Copyright &copy; <?php echo date("Y"); ?> Mehta Trading Company | All rights reserved</h5>
 </div>
 <div class="col-md-2">
 </div>
